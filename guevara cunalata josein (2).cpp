@@ -1,5 +1,5 @@
-/*3: Construya un programa que dado como dato la calificación de un alumno en un examen,
-escriba Aprobado si su calificación es mayor o igual a 8 y reprobado en caso contrario*/
+/*3: Construya un programa que dado como dato la calificaciÃ³nÂ de un alumno en un examen,
+escriba AprobadoÂ si su calificaciÃ³n es mayor o igual a 8 y reprobado en caso contrario*/
 
 #include<iostream>
 using namespace std;
@@ -18,3 +18,4 @@ int main(){
 	}
     return 0;
 }
+// modificacion de prueba
