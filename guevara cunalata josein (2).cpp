@@ -14,7 +14,7 @@ int main(){
 	}
 	else
 	{
-		cout<<"usted a reprobado "<<endl;
+		cout<<"usted a reprobado kevin  "<<endl;
 	}
     return 0;
 }
