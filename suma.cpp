@@ -1,10 +1,12 @@
 #include<iostream>
-using nanespace std;
+using namespace std;
 int main ()
-(
- float a,b,c;
- cin>>a>>b;
- c=a+b;
- cout<<c;
- return 0;
- )
+{
+	float x,y,z;
+        cout<<"Ingresar dos números  x y:",
+	cin>>x>>y;
+	z=x+y;
+        cout<<"El resultado es:";
+	cout<<z<<endl;
+	return 0;
+}
